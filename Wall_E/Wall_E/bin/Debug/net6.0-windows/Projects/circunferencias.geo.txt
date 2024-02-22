@@ -1,0 +1,6 @@
+color blue;
+circle c;
+draw c;
+restore;
+circle c1;
+draw c1;

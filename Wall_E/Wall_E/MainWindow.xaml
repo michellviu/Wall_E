@@ -1,0 +1,63 @@
+﻿<Window x:Class="Wall_E.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wall_E"
+        mc:Ignorable="d"
+        Title="Wall-E" Height="600" Width="1000">
+
+    <Grid Margin="0,0,10,10" Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel x:Name="stack" Grid.Column="0" Margin="0,0,0,10" Background="White">
+            <Menu Background="White">
+                
+                <MenuItem Header="Menu    " Width="90" Foreground="Black"  BorderBrush="Black" Height="27"  FontSize="18"  FontFamily="Segoe UI Variable Small" >
+                    <MenuItem.Background>
+                        <ImageBrush ImageSource="/Resources/menu.JPG" />
+                    </MenuItem.Background>
+                    <MenuItem Header="Save" Click="Click_Guardar"/>
+                    <MenuItem Header="Open" Click="Click_Abrir"/>
+                    <MenuItem Header="Clear" Click="Click_Limpiar"/>
+                </MenuItem>
+                <Button x:Name="Run" Content="Run       " Height="27" Width="83" RenderTransformOrigin="-0.768,-2.221" Foreground="Black"        
+                BorderBrush="Black" FontSize="18"  FontFamily="Segoe UI Variable Small" 
+                Click="Button_Click" IsEnabled="True" Margin="0,0,0,0">
+                    <Button.Background>
+                        <ImageBrush ImageSource="/Resources/run.JPG" />
+                    </Button.Background>
+                </Button>
+                
+
+                
+
+            </Menu>
+
+            <TextBlock FontSize="14" FontWeight="Normal" FontFamily="Lucida Bright" Margin="0,5,0,5"  ><Run Language="en-gb" Text="    "/><Run Text=" "/><Run Text="Escribe tu código aquí:"/></TextBlock>
+            <!--
+            <ScrollViewer VerticalScrollBarVisibility="Disabled" HorizontalScrollBarVisibility="Disabled" >
+                <TextBox x:Name="TextBox" TextWrapping="Wrap" AcceptsReturn="True" VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Visible" Margin="4,0,0,0" Width="462" Height="241" />
+            </ScrollViewer>
+            -->
+            <TextBox x:Name="TextBox" TextWrapping="Wrap" AcceptsReturn="True" VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Visible" Margin="4,0,0,0" Height="622" />
+            <Border BorderThickness ="1">
+            <TextBlock x:Name="Output" Height="85" TextWrapping="Wrap" Text="Output" Width="462" FontSize="14"  />
+            </Border>
+                <!-- Agregar una barra de desplazamiento -->
+
+        </StackPanel>
+
+
+        <Canvas Grid.Column="1" x:Name="lienzo" Margin="5,5,5,5" ClipToBounds="True"  >
+            <Canvas.Background>
+                <ImageBrush ImageSource="/Resources/fondolienzo.JPG"/>
+            </Canvas.Background>
+        </Canvas>
+
+    </Grid>
+</Window>
+

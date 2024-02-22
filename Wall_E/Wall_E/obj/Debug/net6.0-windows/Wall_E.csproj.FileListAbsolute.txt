@@ -1,0 +1,105 @@
+D:\proyectos\Wall-E\Wall-E\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.csproj.AssemblyReference.cache
+D:\proyectos\Wall-E\Wall-E\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\proyectos\Wall-E\Wall-E\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\App.g.cs
+D:\proyectos\Wall-E\Wall-E\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E_MarkupCompile.cache
+D:\proyectos\Wall-E\Wall-E\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E_MarkupCompile.lref
+D:\proyectos\Wall-E\Wall-E\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\Wall_E.exe
+D:\proyectos\Wall-E\Wall-E\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\Wall_E.deps.json
+D:\proyectos\Wall-E\Wall-E\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\Wall_E.runtimeconfig.json
+D:\proyectos\Wall-E\Wall-E\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\Wall_E.dll
+D:\proyectos\Wall-E\Wall-E\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\ref\Wall_E.dll
+D:\proyectos\Wall-E\Wall-E\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\Wall_E.pdb
+D:\proyectos\Wall-E\Wall-E\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\MainWindow.baml
+D:\proyectos\Wall-E\Wall-E\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.g.resources
+D:\proyectos\Wall-E\Wall-E\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\Wall-E\Wall-E\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.AssemblyInfoInputs.cache
+D:\proyectos\Wall-E\Wall-E\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.AssemblyInfo.cs
+D:\proyectos\Wall-E\Wall-E\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.csproj.CoreCompileInputs.cache
+D:\proyectos\Wall-E\Wall-E\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.dll
+D:\proyectos\Wall-E\Wall-E\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\ref\Wall_E.dll
+D:\proyectos\Wall-E\Wall-E\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.pdb
+D:\proyectos\Wall-E\Wall-E\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.genruntimeconfig.cache
+E:\Programming\Wall_E Repo\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.csproj.AssemblyReference.cache
+E:\Programming\Wall_E Repo\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Programming\Wall_E Repo\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\App.g.cs
+E:\Programming\Wall_E Repo\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E_MarkupCompile.cache
+E:\Programming\Wall_E Repo\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E_MarkupCompile.lref
+E:\Programming\Wall_E Repo\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.dll
+E:\Programming\Wall_E Repo\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\ref\Wall_E.dll
+E:\Programming\Wall_E Repo\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.pdb
+E:\Programming\Wall_E Repo\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\Wall_E.exe
+E:\Programming\Wall_E Repo\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\Wall_E.deps.json
+E:\Programming\Wall_E Repo\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\Wall_E.runtimeconfig.json
+E:\Programming\Wall_E Repo\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\Wall_E.dll
+E:\Programming\Wall_E Repo\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\ref\Wall_E.dll
+E:\Programming\Wall_E Repo\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\Wall_E.pdb
+E:\Programming\Wall_E Repo\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Programming\Wall_E Repo\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.g.resources
+E:\Programming\Wall_E Repo\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Wall_E Repo\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.AssemblyInfoInputs.cache
+E:\Programming\Wall_E Repo\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.AssemblyInfo.cs
+E:\Programming\Wall_E Repo\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.csproj.CoreCompileInputs.cache
+E:\Programming\Wall_E Repo\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.genruntimeconfig.cache
+C:\Users\miche\Desktop\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.csproj.AssemblyReference.cache
+C:\Users\miche\Desktop\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\miche\Desktop\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\miche\Desktop\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E_MarkupCompile.cache
+C:\Users\miche\Desktop\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E_MarkupCompile.lref
+C:\Users\miche\Desktop\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.dll
+C:\Users\miche\Desktop\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\ref\Wall_E.dll
+C:\Users\miche\Desktop\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.pdb
+C:\Users\miche\Desktop\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\Wall_E.exe
+C:\Users\miche\Desktop\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\Wall_E.deps.json
+C:\Users\miche\Desktop\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\Wall_E.runtimeconfig.json
+C:\Users\miche\Desktop\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\Wall_E.dll
+C:\Users\miche\Desktop\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\ref\Wall_E.dll
+C:\Users\miche\Desktop\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\Wall_E.pdb
+C:\Users\miche\Desktop\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\miche\Desktop\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.g.resources
+C:\Users\miche\Desktop\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miche\Desktop\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.AssemblyInfoInputs.cache
+C:\Users\miche\Desktop\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.AssemblyInfo.cs
+C:\Users\miche\Desktop\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.csproj.CoreCompileInputs.cache
+C:\Users\miche\Desktop\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.genruntimeconfig.cache
+C:\Users\espin\OneDrive\Escritorio\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.csproj.AssemblyReference.cache
+C:\Users\espin\OneDrive\Escritorio\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\espin\OneDrive\Escritorio\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\espin\OneDrive\Escritorio\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E_MarkupCompile.cache
+C:\Users\espin\OneDrive\Escritorio\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E_MarkupCompile.lref
+C:\Users\espin\OneDrive\Escritorio\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.dll
+C:\Users\espin\OneDrive\Escritorio\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\ref\Wall_E.dll
+C:\Users\espin\OneDrive\Escritorio\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.pdb
+C:\Users\espin\OneDrive\Escritorio\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\Wall_E.exe
+C:\Users\espin\OneDrive\Escritorio\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\Wall_E.deps.json
+C:\Users\espin\OneDrive\Escritorio\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\Wall_E.runtimeconfig.json
+C:\Users\espin\OneDrive\Escritorio\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\Wall_E.dll
+C:\Users\espin\OneDrive\Escritorio\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\ref\Wall_E.dll
+C:\Users\espin\OneDrive\Escritorio\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\Wall_E.pdb
+C:\Users\espin\OneDrive\Escritorio\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\espin\OneDrive\Escritorio\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.g.resources
+C:\Users\espin\OneDrive\Escritorio\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\espin\OneDrive\Escritorio\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.AssemblyInfoInputs.cache
+C:\Users\espin\OneDrive\Escritorio\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.AssemblyInfo.cs
+C:\Users\espin\OneDrive\Escritorio\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.csproj.CoreCompileInputs.cache
+C:\Users\espin\OneDrive\Escritorio\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.genruntimeconfig.cache
+D:\proyectos\Wall_E 2.0\Wall_E-2.0\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\Wall_E.exe
+D:\proyectos\Wall_E 2.0\Wall_E-2.0\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\Wall_E.deps.json
+D:\proyectos\Wall_E 2.0\Wall_E-2.0\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\Wall_E.runtimeconfig.json
+D:\proyectos\Wall_E 2.0\Wall_E-2.0\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\Wall_E.dll
+D:\proyectos\Wall_E 2.0\Wall_E-2.0\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\ref\Wall_E.dll
+D:\proyectos\Wall_E 2.0\Wall_E-2.0\Wall-E\Wall_E\Wall_E\bin\Debug\net6.0-windows\Wall_E.pdb
+D:\proyectos\Wall_E 2.0\Wall_E-2.0\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.csproj.AssemblyReference.cache
+D:\proyectos\Wall_E 2.0\Wall_E-2.0\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\proyectos\Wall_E 2.0\Wall_E-2.0\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\App.g.cs
+D:\proyectos\Wall_E 2.0\Wall_E-2.0\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E_MarkupCompile.cache
+D:\proyectos\Wall_E 2.0\Wall_E-2.0\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E_MarkupCompile.lref
+D:\proyectos\Wall_E 2.0\Wall_E-2.0\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\MainWindow.baml
+D:\proyectos\Wall_E 2.0\Wall_E-2.0\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.g.resources
+D:\proyectos\Wall_E 2.0\Wall_E-2.0\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\Wall_E 2.0\Wall_E-2.0\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.AssemblyInfoInputs.cache
+D:\proyectos\Wall_E 2.0\Wall_E-2.0\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.AssemblyInfo.cs
+D:\proyectos\Wall_E 2.0\Wall_E-2.0\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.csproj.CoreCompileInputs.cache
+D:\proyectos\Wall_E 2.0\Wall_E-2.0\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.dll
+D:\proyectos\Wall_E 2.0\Wall_E-2.0\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\ref\Wall_E.dll
+D:\proyectos\Wall_E 2.0\Wall_E-2.0\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.pdb
+D:\proyectos\Wall_E 2.0\Wall_E-2.0\Wall-E\Wall_E\Wall_E\obj\Debug\net6.0-windows\Wall_E.genruntimeconfig.cache

@@ -1,0 +1,28 @@
+
+mediatrix(p1, p2) = 
+    let
+        l1 = line(p1, p2);
+        m = measure (p1, p2);
+        c1 = circle (p1, m);
+        c2 = circle (p2, m);
+        i1,i2,_ = intersect(c1, c2);
+    in line(i1,i2);
+
+getSpikes(p1,p2,p3,m) =
+      if m / measure(p2,p3) > 35 then {} 
+      else let
+              l1 = mediatrix(p1,p2);
+              l2 = mediatrix(p1,p3);
+              i1,_ = intersect(l1,line(p1,p2));
+              i2,_ = intersect(l2,line(p1,p3));
+              i3,_ = intersect(l1,l2);
+              draw {segment(i1,i3), segment(i2,i3),segment(i3,p1)};
+              in {i1,i2,i3} + getSpikes(i1,p2,i3,m) + getSpikes(i2,p3,i3,m);
+        
+
+s = point(150, 70);
+r = point(20,20);
+point w;
+m1 = measure(s,r);
+
+draw getSpikes(s,r,w,m1);
